@@ -1,4 +1,4 @@
-<h1 align="center">Hey bbz, I'm Yasmine 👩🏽‍💻💖</h1>
+<h1 align="center">Hey there, I'm Yasmine 👩🏽‍💻💖</h1>
 <p align="center">
   🌍 IT Girl | Future Software Queen | Python Learner | Advocate for Girls in Tech
 </p>
