@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Yasmine 👩🏽‍💻💖</h1>
-<p align="center">
-  🌍 IT Girl | Future Software Queen | Python Learner | Advocate for Girls in Tech
+<p align="center"> 
+  🌍 IT Graduate | Computer Science Student | Python Learner | Tech Lover | Advocate for Girls in Tech
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 💻 Tech Stack
 - 💅 Python, HTML, CSS, JavaScript (still glowing up)
 - 🛠 Git & GitHub (committing like it's self-care)
-- ☁️ Learning: Cloud, Cybersecurity, Data Analysis
+- ☁️ Learning: Cloud, Cybersecurity, Data Analysis and Ethical Hacking (watch out hackers)
 
 ---
 
@@ -23,6 +23,7 @@
 - I’m dramatic but in a lovable way 😌
 - I journal when life hits too hard 📖
 - Coffee, novels, and Allah keep me going ☕📿📚
+- I speak Somali, Swahili and English fluently
 
 ---
 
