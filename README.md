@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hey bbz, I'm Yasmine 👩🏽‍💻💖</h1>
+<p align="center">
+  🌍 IT Girl | Future Software Queen | Python Learner | Advocate for Girls in Tech
+</p>
 
-<!--
-**Yasmintey/Yasmintey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- 💅 Python, HTML, CSS, JavaScript (still glowing up)
+- 🛠 Git & GitHub (committing like it's self-care)
+- ☁️ Learning: Cloud, Cybersecurity, Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Current Goals
+- Finish my degree in Computer Science 📚
+- Build cool projects and share on GitHub 🚀
+- Get that tech bag & support my fam 💼💰
+
+---
+
+### 🦋 Fun Facts
+- I’m dramatic but in a lovable way 😌
+- I journal when life hits too hard 📖
+- Coffee, novels, and Allah keep me going ☕📿📚
+
+---
+
+### 💌 Let’s Connect
+- 📧 Email: yasminebare714@gmail.com
+- 💬 Open to collabs, internships & opportunities to grow!
+
+---
+
+<p align="center">✨ Btw, I don’t just push code, I push limits. ✨</p>
